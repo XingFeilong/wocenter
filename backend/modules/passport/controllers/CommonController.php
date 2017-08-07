@@ -108,7 +108,7 @@ class CommonController extends Controller
     }
 
     /**
-     * 注册流程里推出登陆
+     * 注册流程里退出登陆
      *
      * @return mixed|string
      */

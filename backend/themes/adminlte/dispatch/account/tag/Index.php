@@ -38,4 +38,3 @@ class Index extends Dispatch
     }
 
 }
-
